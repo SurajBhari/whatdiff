@@ -1,0 +1,10 @@
+[
+    {
+        "url": "https://example.com",
+        "selector": {
+            "type" : "id",
+            "value" : "idofelement",
+            "count" : 0
+        }
+    }
+]
