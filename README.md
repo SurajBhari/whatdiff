@@ -1,5 +1,9 @@
 # WhatDiff
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
+![cron](https://img.shields.io/badge/cron-scheduled-555555?style=flat&logo=linux&logoColor=white)
+
 A minimal webpage change-monitor. Run it on a schedule ([cron](https://en.wikipedia.org/wiki/Cron)) and it compares each configured page against its last-known state, reporting a line-by-line diff whenever something changes.
 
 Use it to watch a product page, a news article, a blog post, a price, a "back in stock" label — anything on the web.
